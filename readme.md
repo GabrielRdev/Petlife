@@ -17,5 +17,5 @@ Link do projeto: https://gabrielrdev.github.io/Petlife
 
 ## 💛 Contato 
 
-Email: biiel06@hotmail.com
+Email: biiel06@hotmail.com <br>
 Linkedin:https://www.linkedin.com/in/gabriel-ricardo-2b3984161/
